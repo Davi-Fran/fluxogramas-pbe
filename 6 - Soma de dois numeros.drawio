@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.4.0">
+  <diagram id="KqK8g8o9F0DJFRWIc4B3" name="Página-1">
+    <mxGraphModel dx="846" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="45N3P7ztf-HuJ-juDKQc-4" edge="1" parent="1" source="45N3P7ztf-HuJ-juDKQc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="45N3P7ztf-HuJ-juDKQc-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="45N3P7ztf-HuJ-juDKQc-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Início" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="45N3P7ztf-HuJ-juDKQc-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Fim" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="45N3P7ztf-HuJ-juDKQc-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Requisite que o usuário digite um número" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="45N3P7ztf-HuJ-juDKQc-13" edge="1" parent="1" source="45N3P7ztf-HuJ-juDKQc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="45N3P7ztf-HuJ-juDKQc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="45N3P7ztf-HuJ-juDKQc-5" parent="1" style="shape=manualInput;whiteSpace=wrap;html=1;" value="Usuário digita um número" vertex="1">
+          <mxGeometry height="90" width="80" x="370" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="45N3P7ztf-HuJ-juDKQc-7" edge="1" parent="1" source="45N3P7ztf-HuJ-juDKQc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.518;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;" target="45N3P7ztf-HuJ-juDKQc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="45N3P7ztf-HuJ-juDKQc-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Requisite que o usuário digite outro número" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="45N3P7ztf-HuJ-juDKQc-15" edge="1" parent="1" source="45N3P7ztf-HuJ-juDKQc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="45N3P7ztf-HuJ-juDKQc-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="45N3P7ztf-HuJ-juDKQc-9" parent="1" style="shape=manualInput;whiteSpace=wrap;html=1;" value="Usuário digita outro número" vertex="1">
+          <mxGeometry height="90" width="80" x="370" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="45N3P7ztf-HuJ-juDKQc-10" edge="1" parent="1" source="45N3P7ztf-HuJ-juDKQc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.518;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;" target="45N3P7ztf-HuJ-juDKQc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="45N3P7ztf-HuJ-juDKQc-17" edge="1" parent="1" source="45N3P7ztf-HuJ-juDKQc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="45N3P7ztf-HuJ-juDKQc-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="45N3P7ztf-HuJ-juDKQc-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Some os dois números fornecidos pelo usuário" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="45N3P7ztf-HuJ-juDKQc-18" edge="1" parent="1" source="45N3P7ztf-HuJ-juDKQc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="45N3P7ztf-HuJ-juDKQc-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="45N3P7ztf-HuJ-juDKQc-16" parent="1" style="shape=display;whiteSpace=wrap;html=1;" value="Exiba o resultado da &lt;br&gt;soma dos 2 números fornecidos" vertex="1">
+          <mxGeometry height="60" width="170" x="325" y="610" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
